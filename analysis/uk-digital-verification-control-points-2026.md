@@ -30,3 +30,22 @@ Official source: https://enablingdigitalidentity.blog.gov.uk/2026/09/29/help-us-
 - Once Section 45 is commenced, which public authorities sign data-sharing agreements? What attributes are requested and how often?
 - Can a revoked provider's customers transfer credentials to another provider without losing access?
 - Which specific contractual or policy changes mention the WEF standards? Search legislative impact assessments, consultation responses and procurement ledgers before claiming influence.
+
+
+## Cycle 4 follow-up: released official source repository (read 2026-10-23)
+The UK Office for Digital Identities and Attributes (OfDIA) itself publishes publicly accessible integration documentation in **ofdia-uk/dvs-register-machine-readable-infrastructure-tech-docs**. It was created 2026-09-29. This is an original design source, not an outside interpretation.
+- Project: https://github.com/ofdia-uk/dvs-register-machine-readable-infrastructure-tech-docs
+- README: https://github.com/ofdia-uk/dvs-register-machine-readable-infrastructure-tech-docs/blob/main/README.md
+- Trust mechanics: https://github.com/ofdia-uk/dvs-register-machine-readable-infrastructure-tech-docs/blob/main/docs/how-trust-works.md
+- Outstanding design questions: https://github.com/ofdia-uk/dvs-register-machine-readable-infrastructure-tech-docs/blob/main/docs/information-to-follow.md
+
+**Original repository explicitly says work in progress**: key information is still unpublished, including component availability dates, test environment, cache durations, trust-mark validity, certificate revocation propagation, endpoint addresses and public authority onboarding. Therefore the published machine-readable architecture is a **documented design, not confirmation of complete live deployment**.
+
+**Offline qualification:** Original design expects signed information to be cached and envisions in-person offline mdoc verification. It does not require a round trip to a central database for every check.
+
+**Direct government control point:** The state-operated OfDIA is identified as PKI root CA and OpenID Federation trust anchor. Private certified providers remain separate entities; other relying institutions can verify provider certification and reject failing trust chains. This is authorization of participating **services**, not an individual social-score system.
+
+**Section 45 memorandum:** Oct 21 explanatory memorandum says sharing individual information under the proposed information gateway must be necessary to provide DVS to the individual at their request. It discusses future signed data-sharing agreements and data minimization, with projected economic benefits of £1.3bn–£6.2bn over ten years; forecasts are not measured benefits. Final code/section commencement is still pending.
+https://www.gov.uk/government/publications/draft-code-of-practice-for-public-authorities-sharing-information-with-digital-verification-services/explanatory-memorandum-to-the-code-of-practice-for-public-authorities-sharing-information-with-digital-verification-services
+
+**What this changes:** The actual trust/authorization architecture is now identifiable to a government-owned source repository and can be audited version by version. The unanswered question becomes *real adoption, effect on ordinary users and whether non-digital routes remain viable*, rather than whether an architectural blueprint exists.
