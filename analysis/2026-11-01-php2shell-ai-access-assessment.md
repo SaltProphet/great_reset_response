@@ -39,11 +39,12 @@ The incidents are not interchangeable, and independent forensic verification rem
 
 ## Identity, authorization, and provider access
 
-The ledger records NIST identity and standards initiatives, Microsoft enterprise-agent governance, RSA Agent ID, Proof x401, and related systems. Their scopes differ:
+The ledger records NIST identity and standards initiatives, Microsoft enterprise-agent governance, RSA Agent ID, Proof x401, IBM's October 27 enterprise agent identity and control announcement, and related systems. Their scopes differ:
 
 - Some are voluntary standards work or concept papers.
 - Some are enterprise products or planned features.
 - Some are identity-backed authorization routes for specific transactions.
+- IBM's announcement describes owner and lifecycle records, scoped credentials, and revocation through an enterprise HashiCorp Vault context; it does not establish mandatory registration for independently hosted agents.
 - Announcements establish stated capability and availability; they do not independently establish deployment or effectiveness for arbitrary self-hosted agents.
 
 OpenAI, Anthropic, GitHub, and other provider policies are service, product, or contract rules. The reviewed evidence does not turn those policies into general laws governing offline local inference.
@@ -114,6 +115,7 @@ The current ledger does not establish:
 - [UK AI Security Institute incident report](https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing)
 - [NIST AI Agent Standards Initiative](https://www.nist.gov/news-events/news/2026/02/announcing-ai-agent-standards-initiative-interoperable-and-secure)
 - [NIST agent identity concept paper](https://www.nist.gov/news-events/news/2026/02/new-concept-paper-identity-and-authority-software-agents)
+- [IBM agent identity and control](https://newsroom.ibm.com/2026-10-27-ibm-introduces-identity-and-control-for-ai-agents%2C-securing-frontier-intelligence-for-the-enterprise)
 - [US DeepSeek federal order](https://www.govinfo.gov/content/pkg/FR-2026-10-20/pdf/FR-2026-10-20.pdf)
 - [Stop Rogue AI Act](https://www.govinfo.gov/content/pkg/BILLS-119hr10362ih/xhtml/BILLS-119hr10362ih.html)
 - [China FIREWALL Act](https://www.govinfo.gov/content/pkg/BILLS-119hr10670ih/xhtml/BILLS-119hr10670ih.html)
