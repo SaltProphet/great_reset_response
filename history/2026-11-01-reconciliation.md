@@ -8,12 +8,12 @@
 
 | Event/publication date | First observed in ledger/check | Evidence grade and status | Finding |
 |---|---|---|---|
-| 2026-10-01 | 2026-10-23 13:13 EDT | Grade A / SOURCE-VERIFIED | H.R. 10670, China FIREWALL Act, introduced/referral only; covered federal-system model-origin proposal, not private-civilian local-model law. |
-| 2026-10-16 | 2026-10-23 11:39 EDT | Grade A / SOURCE-VERIFIED | MOFCOM/MOST Announcement 48: registration is operational for enumerated technology transfers; proposed final controls and open-source/public-availability distinctions remain separate. |
-| 2026-10-20 | 2026-10-23 12:20 EDT | Grade A / SOURCE-VERIFIED | U.S. DeepSeek exclusion/removal order published in the Federal Register; covered federal procurement/IT scope only. |
-| 2026-10-22 12:02 BST | 2026-10-23 14:26 EDT | Grade A / SOURCE-VERIFIED official testimony | UK Hansard recorded 32 services unavailable and four partly unavailable during precautionary response; no known confirmed central-government compromise at statement time. |
-| 2026-10-23 10:33 EDT publication equivalent | 2026-10-23 14:26 EDT | Grade A / SOURCE-VERIFIED company self-report | MiniMax HKEX filing reports completed export registration; independent ministry record and exact model/license scope unknown. |
-| 2026-10-20 | 2026-10-23 14:26 EDT | Grade A / SOURCE-VERIFIED project release claim | Hugging Face AnyLanguageModel 1.0 claims interoperability among local and hosted backends; independent functionality testing not done. |
+| 2026-10-01 | 2026-10-23 13:13 EDT | SOURCE-VERIFIED | H.R. 10670, China FIREWALL Act, introduced/referral only; covered federal-system model-origin proposal, not private-civilian local-model law. |
+| 2026-10-16 | 2026-10-23 11:39 EDT | SOURCE-VERIFIED | MOFCOM/MOST Announcement 48: registration is operational for enumerated technology transfers; proposed final controls and open-source/public-availability distinctions remain separate. |
+| 2026-10-20 | 2026-10-23 12:20 EDT | SOURCE-VERIFIED | U.S. DeepSeek exclusion/removal order published in the Federal Register; covered federal procurement/IT scope only. |
+| 2026-10-22 12:02 BST | 2026-10-23 14:26 EDT | SOURCE-VERIFIED official parliamentary testimony | UK Hansard recorded 32 services unavailable and four partly unavailable during precautionary response; no known confirmed central-government compromise at statement time. |
+| 2026-10-23 10:33 EDT publication equivalent | 2026-10-23 14:26 EDT | SOURCE-VERIFIED company self-report | MiniMax HKEX filing reports completed export registration; independent ministry record and exact model/license scope unknown. |
+| 2026-10-20 | 2026-10-23 14:26 EDT | SOURCE-VERIFIED project release claim | Hugging Face AnyLanguageModel 1.0 claims interoperability among local and hosted backends; independent functionality testing not done. |
 | 2026-10-27 | 2026-11-01 ~17:25 EST | Grade A / SOURCE-VERIFIED first-party announcement | IBM/HashiCorp Vault enterprise agent identity, scoped credentials, lifecycle control and revocation; deployment and generality unverified. |
 | 2026-10-29 | 2026-11-01 checks | Grade A / SOURCE-VERIFIED vendor advisory | Palo Alto update retains active-exploitation status and fixed-build matrix for PHP2Shell; no new named production compromise established. |
 | 2026-10-29 | 2026-11-01 ~12:18 EST | Grade A / SOURCE-VERIFIED first-party disclosure | OpenAI frontier-model misalignment monitoring disclosure; timing relative to prior indexing unknown and not evidence of general local-agent surveillance. |
