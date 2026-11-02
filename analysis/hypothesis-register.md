@@ -1,21 +1,24 @@
-# Hypotheses / alternatives
+# Open research questions and evidence requirements
 
 **Last reconciled:** 2026-11-01 against the Google Drive source ledger.
 
-**H1 — Integrated economic access gates.** Digital identity, payments, work management, and agent authorization show documented components and interoperability efforts. **Partially supported at the component level; a unified compulsory system is not demonstrated.**
+This file preserves questions for source-led investigation. It does not assign assistant-authored verdict labels to the user's questions.
 
-**H2 — WEF influence.** WEF plans and technical groups may have influenced specific later standards and implementations. **Unresolved; direct adoption evidence is still required.**
+## Questions retained
 
-**H3 — AI tokens as economic prototype.** Metered AI billing and results-based work share account, quota, and performance concepts. **Speculative; deliberate universal labor control is not established.**
+1. What documented relationships, if any, connect digital identity, payments, work-management systems, and agent authorization? Record each system, owner, jurisdiction, implementation state, and direct interoperability evidence separately.
+2. What documentary evidence, if any, links WEF or related governance initiatives to a later standard, contract, funded project, or deployed infrastructure? Shared language, organizations, or timing are not sufficient.
+3. What do AI metering, token billing, quotas, and performance accounting actually implement? Do not extend those records into a labor-control claim without direct evidence.
+4. Did PHP2Shell or another incident appear in a decision record, policy rationale, contract, or implementation record for a later restriction on independent AI? Record the source and exact causal statement if found.
+5. Which external actions require identity or authorization, for which services and users, and what local-model or open-weight access paths remain documented? Separate model execution from service-boundary access.
 
-**H4 — Security consolidation after PHP2Shell.** Major vulnerabilities may drive stronger patching, managed hosting, identity controls, and supplier audits. **Operationally plausible as a prospective response; a PHP2Shell-driven restriction on independent AI is not established.**
+## Competing explanations to test
 
-**H5 — Local models remain available while external actions increasingly require identity and authorization.** **Best-supported structural interpretation**, subject to jurisdiction, service, contract, implementation, and enforcement limits. GitHub local-model support, open-weight interoperability, Walmart/1Password authorized routes, and Chinese registration/open-source evidence are countervailing access paths, not proof of unrestricted availability.
+Security engineering, fraud controls, ordinary accounting, public-service efficiency, decentralized adoption, provider risk management, jurisdiction-specific law, and abandoned pilots can produce similar architectures without a common coordinating cause.
 
-## Competing explanations
+## Evidence requirements
 
-Security engineering, fraud controls, ordinary business accounting, public-service efficiency, decentralized adoption, non-discrimination laws, provider risk management, and abandoned pilots can produce similar architectures without centrally coordinated political intent.
-
-## Rule
-
-Institutional overlap, a common date, shared terminology, or parallel architecture is insufficient evidence of coordinated intent.
+- Preserve primary-source text, dates, citations, corrections, and counterevidence.
+- Separate source claims from interpretation, inference, and unresolved questions.
+- Distinguish proposal, pilot, product announcement, deployment, enforcement, and legal effect.
+- Record missing evidence instead of replacing it with a conclusion.
