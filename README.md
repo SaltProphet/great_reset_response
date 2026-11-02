@@ -5,7 +5,7 @@
 **Google Drive archive:** https://drive.google.com/drive/folders/1klTWUN8AzbFN81oIwpf-m_taKVIbewez  
 **Controlling source ledger:** https://docs.google.com/document/d/1cSC7t9zClfCe-3GmECbMeVb-X7RZthkahlxQmKCbsAc/edit
 
-This repository investigates **documented institutional relationships** between WEF Great Reset-era proposals, digital identity, financial infrastructure, algorithmic labor, and access-control systems. It also tracks the October 2026 PHP2Shell incident and real-world service disruptions.
+This repository preserves source-linked research on WEF-related proposals, digital identity, financial infrastructure, algorithmic labor, access-control systems, and the October 2026 PHP2Shell incident and service-disruption records.
 
 ## Research rules
 
@@ -16,16 +16,17 @@ This repository investigates **documented institutional relationships** between 
 5. Preserve corrections and counterevidence instead of removing contradictory findings.
 6. Do not interpret shared language, organizations or timing as proof of coordination.
 7. Keep event date, publication date, and monitor-observation date separate.
+8. Preserve user questions as questions; do not turn them into assistant-authored hypothesis verdicts.
 
 ## Repository map
 
-- `sources/`: primary source inventory and source verification priorities.
-- `history/`: chronology, institutional linkages, and dated reconciliation records.
-- `analysis/`: hypothesis register, system architecture comparisons, and the November 1 assessment.
-- `incidents/`: PHP2Shell disclosures, impact reports, and the access-watch specification.
-- `archive/`: distilled earlier conversation findings, linked to Google Docs.
-- `RESEARCH_NEXT.md`: next evidence-gathering actions.
+- sources/: primary source inventory and source verification priorities.
+- history/: chronology and dated reconciliation records.
+- analysis/: source-organizing records and open research questions.
+- incidents/: PHP2Shell disclosures, impact reports, and the access-watch specification.
+- archive/: distilled earlier conversation findings, linked to Google Docs.
+- RESEARCH_NEXT.md: next evidence-gathering actions.
 
-The November 1 reconciliation found no newly established universal agent-identity mandate, general private local-inference prohibition, additional confirmed PHP2Shell production compromise, or PHP2Shell-to-AI-policy causal link. It does record stronger evidence for provider- and transaction-specific authorization controls, alongside continuing local/open-weight access paths.
+The repository records provider-, enterprise-, transaction-, procurement-, and jurisdiction-specific material alongside local/open-weight access records. Scope, implementation, enforcement, and causation remain source-specific fields.
 
-**Boundaries:** This is a research project, not a claim that one organization controls all digital systems. The core question is which connections are demonstrated in documents, which remain hypotheses, and how institutional choices affect people's actual ability to access essential services.
+**Boundaries:** This is a research archive. It preserves what documents establish, what they report, what remains inferred or unknown, and what evidence is still missing.
