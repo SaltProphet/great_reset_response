@@ -1,7 +1,7 @@
 # PHP2Shell incident register — reviewed 2026-10-23
 
 ## Severity and technical remediation — VERIFIED
-On 2026-10-21, PHP published fixes for CVE-2026-109618 and CVE-2026-109619, rated critical (CVSS v4.0 9.2). AWS documents the affected server-side request paths and fixed PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35. Patching is the *only complete fix*; WAF is partial mitigation. 
+On 2026-10-21, PHP published fixes for CVE-2026-109618 and CVE-2026-109619, rated critical (CVSS v4.0 9.2). AWS documents the affected server-side request paths and fixed PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35. Patching is the *only complete fix*; WAF is partial mitigation.
 - AWS primary advisory: https://aws.amazon.com/blogs/security/using-aws-waf-to-apply-mitigations-for-php2shell-rce-vulnerabilities-cve-2026-109618-and-cve-2026-109619/
 - AWS threat intelligence observed an apparent Oct 17 exploit attempt in a honeypot. This is *not evidence that a particular bank or carrier was breached*: https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/
 
@@ -23,11 +23,10 @@ Reuters reports temporary online-service restrictions across Japanese organizati
 
 **UNKNOWN:** No evidence reviewed demonstrates stolen bank deposits, collapse of settlement infrastructure, confirmed bank breach from PHP2Shell, or a bank-wide crisis. Corporate caution is consistent with defensive isolation.
 
-## Institutional response — VERIFIED vs INFERRED
-- **VERIFIED:** CISA/other national agencies and major platform providers issued urgent remediation guidance; SoftBank and municipalities published access alternatives.
-- **REPORTED:** Japan announced work on AI-enabled simulation of cyberattacks following the wider event (Reuters Oct 23); seek dated government order/budget before claiming implementation.
-- **INFERRED:** The incident could accelerate central hosting and compliance dependencies, but **no sourced order, contract or implementation** establishes this as an effect yet.
-- **NOT ESTABLISHED:** a Great Reset/WEF operational direction behind either outage or remediation.
+## Institutional response — SOURCE RECORDS
+- CISA and other national agencies and major platform providers issued remediation guidance; SoftBank and municipalities published access alternatives.
+- Reuters reported Japanese work on AI-enabled simulation of cyberattacks following the wider event; the dated government order, budget, and implementation status remain to verify.
+- Any connection between the incident and later hosting, compliance, identity, payment, or access changes requires a dated source, decision record, contract, or implementation record.
 
 ## Next evidence requests
 1. Original operator statements from Nomura / MUFG and dated service restoration logs.
